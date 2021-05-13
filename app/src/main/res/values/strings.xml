@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Android 1 Homework 1</string>
+    <string name="greeting">Добрый день!!!</string>
+    <string name="textHint">Введите текст</string>
+    <string name="textButton">Кнопка для запуска ракеты</string>
+    <string name="text_switch">Включить мозги</string>
+    <string name="text_checkbox1">Вариант 1</string>
+    <string name="text_checkbox2">Вариант 2</string>
+
+
+
 </resources>
