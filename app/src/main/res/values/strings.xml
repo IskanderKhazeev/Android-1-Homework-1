@@ -6,6 +6,11 @@
     <string name="text_switch">Включить мозги</string>
     <string name="text_checkbox1">Вариант 1</string>
     <string name="text_checkbox2">Вариант 2</string>
+    <string name="edit_text_hint">Введите текст</string>
+    <string name="edit_text_phone_number_hint">Введите номер телефона </string>
+    <string name="edit_text_person_name_hint">Введите имя</string>
+    <string name="edit_text_password_hint">Введите пароль</string>
+    <string name="edit_text_email_hint">Введите электронную почту</string>
 
 
 
